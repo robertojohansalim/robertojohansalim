@@ -6,7 +6,7 @@
   - Machine Learning
   - Face Recognition Technology
 - 🌱 I’m currently learning: 
-  - Back End Technology using SOA / Microservices Architecture 
+  - Back End Technology with SOA / Microservices Architecture 
   - As well as Early Into Face Recognition Technology
 - 💞️ I’m looking to collaborate on any intresting project especially in which im currently studiying. I am eager to learn better in those fields.
 - 📫 How to reach me through email at robertojohansalim@gmail.com
