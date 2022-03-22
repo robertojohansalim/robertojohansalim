@@ -9,7 +9,9 @@
   - Back End Technology with SOA / Microservices Architecture 
   - As well as Early Into Face Recognition Technology
 - 💞️ I’m looking to collaborate on any intresting project especially in which im currently studiying. I am eager to learn better in those fields.
-- 📫 How to reach me through email at robertojohansalim@gmail.com
+- 📫 How to reach me? You can try to reach me through email at robertojohansalim@gmail.com
+
+Happy learning and coding and to have a nice day.
 
 <!---
 robertojohansalim/robertojohansalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
